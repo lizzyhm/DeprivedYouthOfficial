@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... making music and wathcing movies and tv shows
 - 🌱 I’m currently learning ... or rather majoring in Computer Science and Criminology
 - 💞️ I’m looking to collaborate on ... I am not sure yet
-- 📫 How to reach me ... by my email: echerreramendez@gmail.com or my LinkedIn: /elizabeth-hm
+- 📫 How to reach me ... by my email: echerreramendez@gmail.com or my LinkedIn: www.linkedin.com/in/elizabeth-herrera-mendez
 
 <!---
 lizzyhm/LizzyHM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
